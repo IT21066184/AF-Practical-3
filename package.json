@@ -1,0 +1,19 @@
+{
+  "name": "bpractical-3",
+  "version": "1.0.0",
+  "description": "AF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21066184/AF-Practical-3.git"
+  },
+  "author": "IT21066184",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21066184/AF-Practical-3/issues"
+  },
+  "homepage": "https://github.com/IT21066184/AF-Practical-3#readme"
+}
